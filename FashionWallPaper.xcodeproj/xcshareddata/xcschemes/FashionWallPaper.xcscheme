@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1130"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "135425D0256CF0B300E2CFA8"
+               BuildableName = "&#x58c1;&#x7eb8;-&#x624b;&#x673a;&#x4e3b;&#x9898;&#x5546;&#x5e97;&#x9ad8;&#x6e05;&#x58c1;&#x7eb8;&#x5927;&#x5168;.app"
+               BlueprintName = "FashionWallPaper"
+               ReferencedContainer = "container:FashionWallPaper.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Release"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "135425D0256CF0B300E2CFA8"
+            BuildableName = "&#x58c1;&#x7eb8;-&#x624b;&#x673a;&#x4e3b;&#x9898;&#x5546;&#x5e97;&#x9ad8;&#x6e05;&#x58c1;&#x7eb8;&#x5927;&#x5168;.app"
+            BlueprintName = "FashionWallPaper"
+            ReferencedContainer = "container:FashionWallPaper.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "135425D0256CF0B300E2CFA8"
+            BuildableName = "&#x58c1;&#x7eb8;-&#x624b;&#x673a;&#x4e3b;&#x9898;&#x5546;&#x5e97;&#x9ad8;&#x6e05;&#x58c1;&#x7eb8;&#x5927;&#x5168;.app"
+            BlueprintName = "FashionWallPaper"
+            ReferencedContainer = "container:FashionWallPaper.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

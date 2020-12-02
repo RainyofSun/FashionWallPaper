@@ -1,0 +1,22 @@
+//
+//  FWDynamicUserModel.h
+//  FashionWallPaper
+//
+//  Created by EGLS_BMAC on 2020/11/27.
+//  Copyright © 2020 EGLS_BMAC. All rights reserved.
+//
+
+#import "FWBaseModel.h"
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface FWDynamicUserModel : FWBaseModel
+
+/** pic */
+@property (nonatomic,strong) NSString *pic;
+/** name */
+@property (nonatomic,strong) NSString *name;
+
+@end
+
+NS_ASSUME_NONNULL_END
